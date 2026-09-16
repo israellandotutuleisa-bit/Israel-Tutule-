@@ -1,0 +1,6 @@
+{
+  "name": "Kuduro Runner Luanda",
+  "description": "Jogo mobile endless runner de Kuduro pelas ruas de Luanda: desvia de buracos, candongueiros, polícia e contas pra pagar para chegar ao grande show.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
